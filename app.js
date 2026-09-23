@@ -39,9 +39,9 @@ const EMOJIS = {
 // ─────────────────────────────────────────
 
 const horario = [
-  { nombre: 'Sis. Elec. Digitales',   dia: 1, inicio: '12:00', fin: '14:00', aula: 'B22', color: '#d4e5f7' },
-  { nombre: 'Sis. Elec. Digitales',   dia: 2, inicio: '12:00', fin: '14:00', aula: 'B22', color: '#d4e5f7' },
-  { nombre: 'Sis. Elec. Digitales',   dia: 3, inicio: '10:30', fin: '11:30', aula: 'B22', color: '#d4e5f7' },
+  { nombre: 'Sis. Elec. Digitales',   dia: 2, inicio: '17:30', fin: '19:30', aula: 'B22', color: '#d4e5f7' },
+  { nombre: 'Sis. Elec. Digitales',   dia: 3, inicio: '18:30', fin: '19:30', aula: 'B22', color: '#d4e5f7' },
+  { nombre: 'Sis. Elec. Digitales',   dia: 4, inicio: '15:00', fin: '17:00', aula: 'B22', color: '#d4e5f7' },
   { nombre: 'Ing. Control',           dia: 3, inicio: '09:30', fin: '10:30', aula: 'B22', color: '#ffd4de' },
   { nombre: 'Ing. Control',           dia: 4, inicio: '12:00', fin: '14:00', aula: 'B22', color: '#ffd4de' },
   { nombre: 'Ing. Control',           dia: 5, inicio: '09:30', fin: '11:30', aula: 'B22', color: '#ffd4de' },
