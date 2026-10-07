@@ -45,8 +45,8 @@ const horario = [
   { nombre: 'Ing. Control',           dia: 3, inicio: '09:30', fin: '10:30', aula: 'B22', color: '#ffd4de' },
   { nombre: 'Ing. Control',           dia: 4, inicio: '12:00', fin: '14:00', aula: 'B22', color: '#ffd4de' },
   { nombre: 'Ing. Control',           dia: 5, inicio: '09:30', fin: '11:30', aula: 'B22', color: '#ffd4de' },
-  { nombre: 'T. Máquinas Mecanismos', dia: 2, inicio: '15:00', fin: '17:00', aula: 'B31', color: '#d4f0e0' },
-  { nombre: 'T. Máquinas Mecanismos', dia: 3, inicio: '16:00', fin: '17:00', aula: 'B31', color: '#d4f0e0' },
+  { nombre: 'T. Máquinas Mecanismos', dia: 2, inicio: '09:30', fin: '11:30', aula: 'A22', color: '#d4f0e0' },
+  { nombre: 'T. Máquinas Mecanismos', dia: 3, inicio: '10:30', fin: '11:30', aula: 'A22', color: '#d4f0e0' },
   { nombre: 'Regulación Automática',  dia: 4, inicio: '17:30', fin: '19:30', aula: 'B31', color: '#ffe4cc' },
   { nombre: 'Regulación Automática',  dia: 5, inicio: '15:00', fin: '17:00', aula: 'B31', color: '#ffe4cc' },
 ];
